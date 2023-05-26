@@ -1,18 +1,25 @@
 const uniqid = require('uniqid')
 const cubes = [
     {
-        id: '234jhg2344g23',
+        id: '1n73sh8holhz66elc',
         name: 'Mirror Cube',
         description: 'A cool mirror cube',
         imageUrl:'https://m.media-amazon.com/images/I/5160wWPanjL._SY355_.jpg',
         difficultyLevel: 4
     },
     {
-        id: '234jhg2344g23',
+        id: '2n73sh8holaz66elc',
         name: 'Rubik Cube',
-        description: 'Classic',
+        description: 'Evergreen',
         imageUrl:'https://m.media-amazon.com/images/I/81a7IEinLiL.jpg',
         difficultyLevel: 3
+    },
+    {
+        id: '2n345sh8holaz66elc',
+        name: 'Pyramid Cube',
+        description: 'Triangular shaped',
+        imageUrl:'https://m.media-amazon.com/images/I/51r6IcIjoEL.jpg',
+        difficultyLevel: 2
     },
 ];
 
