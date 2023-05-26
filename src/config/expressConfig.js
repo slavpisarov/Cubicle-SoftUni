@@ -1,6 +1,6 @@
 //to access CSS/ images from public folder (show path)
-const path = require('path')
 const express = require("express");
+const path = require('path')
 
 function expressConfig(app) {
     app.use(express.static(path.resolve(__dirname, '../public')))
