@@ -1,4 +1,3 @@
-//to access CSS/ images from public folder (show path)
 const express = require("express");
 const path = require('path');
 const cookieParser = require('cookie-parser');
